@@ -1,5 +1,7 @@
 🪙 Blockchain DApp Interaction using MetaMask & Ethereum Test Network
+
 📘 Project Overview
+
 
 This project demonstrates practical interaction with blockchain decentralized applications (DApps) using the MetaMask wallet and the Ethereum Sepolia Test Network.
 The objective is to understand how blockchain wallets, test networks, faucets, and DApps like Uniswap and OpenSea work together in a real blockchain environment.
